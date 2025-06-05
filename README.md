@@ -74,9 +74,9 @@ npm run build
 ```
 
 ## Contact
-Name:- PATHAN UBEDULLAKHAN HASANKHAN
-Email:- ubedpathan818@gmail.com
-Portfolio:- https://ubedsportfolio.vercel.app/
+Name:- PATHAN UBEDULLAKHAN HASANKHAN                                                           
+Email:- ubedpathan818@gmail.com                                                                
+Portfolio:- https://ubedsportfolio.vercel.app/                                                 
 
 ## 📱 Screenshot
 
