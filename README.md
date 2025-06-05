@@ -30,7 +30,7 @@ A modern, responsive AI-powered chat application built with Next.js 15 and React
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-chat-assistant.git
+git clone https://github.com/Ubed-pathan/chat-bot-careersecure
 
 # Install dependencies
 npm install
