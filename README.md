@@ -89,23 +89,6 @@ Name:- PATHAN UBEDULLAKHAN HASANKHAN
 Email:- ubedpathan818@gmail.com                                                                
 Portfolio:- https://ubedsportfolio.vercel.app/                                                 
 
-## 📱 Screenshots
-
-### Desktop View
-![Landing Page](./screenshots/desktop-landing.png)
-*Beautiful landing page with gradient background and animated elements*
-
-![Chat Interface](./screenshots/desktop-chat.png)
-*Interactive chat modal with AI responses*
-
-### Mobile View
-![Mobile Landing](./screenshots/mobile-landing.png)
-*Responsive design that works perfectly on mobile devices*
-
-![Mobile Chat](./screenshots/mobile-chat.png)
-*Mobile-optimized chat interface*
-
----
-
-*Built with Next.js 15, React 19, and modern web technologies*
+## 📱 Screenshot
+![Landing Page](./public/demoImage.png)
 
