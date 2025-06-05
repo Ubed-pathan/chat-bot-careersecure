@@ -2,7 +2,10 @@
 
 A modern, responsive AI-powered chat application built with Next.js 15 and React 19. Experience intelligent conversations with a beautiful, intuitive interface.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+## 🎯 Live Demo
+
+**[https://your-live-demo-url.vercel.app](https://chat-bot-alpha-ashy.vercel.app/)**
+
 ![Next.js](https://img.shields.io/badge/Next.js-15+-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19+-blue?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue?style=flat-square&logo=typescript)
@@ -70,18 +73,12 @@ Deploy instantly on Vercel:
 npm run build
 ```
 
-Or click: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=YOUR_REPO_URL)
+## Contact
+Name:- PATHAN UBEDULLAKHAN HASANKHAN
+Email:- ubedpathan818@gmail.com
+Portfolio:- https://ubedsportfolio.vercel.app/
 
-## 🎯 Live Demo
+## 📱 Screenshot
 
-**[View Live Demo →](YOUR_LIVE_DEMO_URL)**
+![Landing Page](./public/demoImage.png)
 
-Test the chat functionality and explore the responsive design.
-
-## 📄 License
-
-MIT License - feel free to use this project for learning or portfolio purposes.
-
----
-
-*Built with Next.js 15, React 19, and modern web technologies*
