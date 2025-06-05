@@ -4,7 +4,7 @@ A modern, responsive AI-powered chat application built with Next.js 15 and React
 
 ## 🎯 Live Demo
 
-**[https://your-live-demo-url.vercel.app](https://chat-bot-alpha-ashy.vercel.app/)**
+**[https://chat-bot-alpha-ashy.vercel.app/](https://chat-bot-alpha-ashy.vercel.app/)**
 
 ![Next.js](https://img.shields.io/badge/Next.js-15+-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19+-blue?style=flat-square&logo=react)
