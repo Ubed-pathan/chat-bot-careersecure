@@ -35,11 +35,22 @@ git clone https://github.com/yourusername/ai-chat-assistant.git
 # Install dependencies
 npm install
 
+# Create environment file
+cp .env.example .env.local
+
+# Add your environment variables to .env.local
+MONGODB_URI=your_mongodb_connection_string
+GEMINI_API_KEY=your_gemini_api_key
+
 # Run development server
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view the application.
+
+**Required Environment Variables:**
+- `MONGODB_URI` - MongoDB connection string
+- `GEMINI_API_KEY` - Google Gemini API key for AI responses
 
 ## 📁 Project Structure
 
@@ -78,7 +89,23 @@ Name:- PATHAN UBEDULLAKHAN HASANKHAN
 Email:- ubedpathan818@gmail.com                                                                
 Portfolio:- https://ubedsportfolio.vercel.app/                                                 
 
-## 📱 Screenshot
+## 📱 Screenshots
 
-![Landing Page](./public/demoImage.png)
+### Desktop View
+![Landing Page](./screenshots/desktop-landing.png)
+*Beautiful landing page with gradient background and animated elements*
+
+![Chat Interface](./screenshots/desktop-chat.png)
+*Interactive chat modal with AI responses*
+
+### Mobile View
+![Mobile Landing](./screenshots/mobile-landing.png)
+*Responsive design that works perfectly on mobile devices*
+
+![Mobile Chat](./screenshots/mobile-chat.png)
+*Mobile-optimized chat interface*
+
+---
+
+*Built with Next.js 15, React 19, and modern web technologies*
 
